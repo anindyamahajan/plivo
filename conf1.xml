@@ -1,0 +1,4 @@
+<Response>
+    <Wait length="1" />
+<Conference startConferenceOnEnter="true" endConferenceOnExit="false" stayAlone="true" exitSound="beep:2" waitSound="https://plivobin-prod-usw.plivops.com/api/v1/entryURL.xml" enterSound="beep:2" digitsMatch="006,007,008,009,010,011,013,014,*" callbackUrl="https://plivobin-prod-usw.plivops.com/api/v1/Callback_dump.xml" record="true" relayDTMF="true"> FStestconference </Conference>
+</Response>
